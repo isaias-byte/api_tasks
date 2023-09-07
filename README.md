@@ -7,10 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Rutas
+## Routes
 
-- http:<localhost>/api/pendingTasks
-- http:<localhost>/api/pendingTasks
-- http:<localhost>/api/pendingTasks
+- http:localhost/api/pendingTasks
+- http:localhost/api/pendingCompanyTasks
+- http:localhost/api/assignedTasks
 
 Autor: Isaías Juárez Esparza
